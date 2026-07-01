@@ -1,3 +1,3 @@
 # GitFundamentos
 
-Mi primer repositorio para aprender Git.
+Este repositorio forma parte de mi aprendizaje de Git y GitHub.
